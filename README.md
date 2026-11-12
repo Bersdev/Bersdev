@@ -17,16 +17,11 @@ Tenho 17 anos e vou cursar Engenharia de Software na UniSenai, em Londrina/PR. A
 * [AlphaRadar B3](https://github.com/Bersdev/Alpharadar-B3) ([demo](https://alpharadar-b3.up.railway.app/)): plataforma de análise de investimentos com motor de cálculo em Python (FastAPI) e dashboard em Next.js. 39 testes e CI no GitHub Actions.
 * [Build in Public](https://github.com/Bersdev/Build_In_Public) ([app](https://build-in-public-rho.vercel.app/)): aplicativo para registrar e acompanhar a evolução nos estudos de programação, com FastAPI, React e PostgreSQL.
 
-<p>
-  <a href="https://github.com/Bersdev/Alpharadar-B3"><img alt="Alpharadar-B3" src="https://github-readme-stats.vercel.app/api/pin/?username=Bersdev&repo=Alpharadar-B3&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Bersdev/Build_In_Public"><img alt="Build_In_Public" src="https://github-readme-stats.vercel.app/api/pin/?username=Bersdev&repo=Build_In_Public&theme=tokyonight&hide_border=true" /></a>
-</p>
-
 ## Estatísticas
 
 <p>
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Bersdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bersdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" alt="Estatísticas do GitHub" src="https://raw.githubusercontent.com/Bersdev/Bersdev/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" alt="Linguagens mais usadas" src="https://raw.githubusercontent.com/Bersdev/Bersdev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
 </p>
 
 <div>
