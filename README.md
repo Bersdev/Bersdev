@@ -1,6 +1,6 @@
-Oi, eu sou o **Gabriel Bernardino** (**Gabriel Bernardino dos Santos**), estudante e desenvolvedor de software em formação!
+Oi, eu sou o **Gabriel Bernardino**, estudante e desenvolvedor de software em formação!
 
-Tenho 17 anos (nascido em 12/05/2009), estou no 3º ano do Ensino Médio e vou cursar **Engenharia de Software na UniSenai**, em Londrina/PR. Sou autodidata e aprendo programação construindo projetos reais: concluí o curso **Python Development da FIAP (80 horas)** e atuo com foco em **desenvolvimento back-end com Python, FastAPI, análise de dados com pandas e IA aplicada**. Estou buscando minha primeira oportunidade em TI (**Jovem Aprendiz ou estágio, 100% remoto**).
+Tenho 17 anos, estou no 3º ano do Ensino Médio e vou cursar **Engenharia de Software na UniSenai**, em Londrina/PR. Sou autodidata e aprendo programação construindo projetos reais: concluí o curso **Python Development da FIAP (80 horas)** e atuo com foco em **desenvolvimento back-end com Python, FastAPI, análise de dados com pandas e IA aplicada**. Estou buscando minha primeira oportunidade em TI (**Jovem Aprendiz ou estágio, 100% remoto**).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
