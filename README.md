@@ -1,6 +1,6 @@
-Oi, eu sou o Gabriel Bernardino, estudante e desenvolvedor em formação!
+Oi, eu sou o **Gabriel Bernardino** (**Gabriel Bernardino dos Santos**), estudante e desenvolvedor de software em formação!
 
-Tenho 17 anos e vou cursar Engenharia de Software na UniSenai, em Londrina/PR. Aprendo programação construindo projetos reais e publicando tudo aqui. Estou buscando minha primeira oportunidade em TI (Jovem Aprendiz ou estágio, 100% remoto).
+Tenho 17 anos (nascido em 12/05/2009), estou no 3º ano do Ensino Médio e vou cursar **Engenharia de Software na UniSenai**, em Londrina/PR. Sou autodidata e aprendo programação construindo projetos reais: concluí o curso **Python Development da FIAP (80 horas)** e atuo com foco em **desenvolvimento back-end com Python, FastAPI, análise de dados com pandas e IA aplicada**. Estou buscando minha primeira oportunidade em TI (**Jovem Aprendiz ou estágio, 100% remoto**).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,5 +26,6 @@ Tenho 17 anos e vou cursar Engenharia de Software na UniSenai, em Londrina/PR. A
 
 <div>
   <a href="https://www.linkedin.com/in/gabrielbersantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://bersdev.github.io" target="_blank"><img src="https://img.shields.io/badge/-Site_Oficial-%2338bdf8?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
   <a href="mailto:bernardinogabriel68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
